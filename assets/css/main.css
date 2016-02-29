@@ -1608,7 +1608,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: 300;
-		line-height: 1em;
+		line-height: .3em;
 		margin: 0 0 1em 0;
 	}
 
@@ -1635,7 +1635,7 @@
 
 	h5 {
 		font-size: 0.9em;
-		line-height: 1.5em;
+		/*line-height: 1.5em;*/
 	}
 
 	h6 {
@@ -2127,7 +2127,7 @@
 	header h6 + p {
 		font-size: 0.9em;
 		margin-top: -0.6em;
-		line-height: 1.5em;
+		/*line-height: 1.5em;*/
 	}
 
 	header.major {
